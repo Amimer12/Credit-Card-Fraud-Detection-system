@@ -118,20 +118,13 @@ Clone the repo and install dependencies:
 git clone https://github.com/yourusername/Credit-Card-Fraud-Detection-system.git
 cd Credit-Card-Fraud-Detection-system
 pip install -r requirements.txt
-
+```
 ▶️ Run the App
+```bash
 python app.py
-
-
+```
 Then open your browser at http://127.0.0.1:5000/
 
-📌 Future Improvements
-
-Use SMOTE / ADASYN for synthetic fraud samples
-
-Deploy on Heroku / AWS
-
-Add dashboard with live fraud detection stats
 
 📜 License
 
